@@ -1,0 +1,37 @@
+text,label
+ingin mulai belajar programming dari nol,learn_new
+mau terjun ke dunia IT untuk pertama kalinya,learn_new
+baru mau memulai perjalanan belajar coding,learn_new
+ingin masuk dunia tech dan tidak tahu caranya,learn_new
+mau belajar cybersecurity dari dasar,learn_new
+ingin mulai karir di bidang teknologi,learn_new
+belum punya pengalaman dan ingin memulai belajar,learn_new
+ingin jadi programmer dan baru mau mulai,learn_new
+mau belajar hal baru di bidang IT,learn_new
+tertarik dengan bidang ini dan ingin memulai,learn_new
+ingin terjun ke data science dari nol,learn_new
+baru pertama kali ingin belajar tentang teknologi,learn_new
+ingin pindah karir dari bidang lain ke IT,switch_career
+sedang bekerja di bidang non-teknis tapi ingin beralih ke tech,switch_career
+mau switch career dari marketing ke data analyst,switch_career
+ingin ganti profesi menjadi web developer,switch_career
+sudah kerja di bidang lain tapi ingin berkarir di teknologi,switch_career
+mau beralih dari pekerjaan sekarang ke dunia IT,switch_career
+ingin pindah dari akuntan menjadi programmer,switch_career
+sedang mempertimbangkan untuk keluar dari pekerjaan dan masuk IT,switch_career
+mau ganti jalur karir ke software engineer,switch_career
+ingin transisi karir ke bidang cybersecurity,switch_career
+sudah bosan dengan pekerjaan sekarang dan ingin coba karir di tech,switch_career
+mau resign dan belajar coding untuk karir baru,switch_career
+sudah kerja di IT tapi ingin upgrade kemampuan,upgrade_skill
+ingin naik level dari junior ke senior developer,upgrade_skill
+mau improve skill yang sudah ada,upgrade_skill
+ingin tingkatkan kemampuan untuk dapat promosi,upgrade_skill
+sudah bisa basic tapi ingin lebih mahir lagi,upgrade_skill
+mau perkuat skill untuk bisa masuk perusahaan yang lebih besar,upgrade_skill
+ingin belajar teknologi terbaru untuk tetap relevan,upgrade_skill
+sudah intermediate dan ingin mencapai level advanced,upgrade_skill
+mau tambah skill baru untuk melengkapi yang sudah dimiliki,upgrade_skill
+ingin sertifikasi untuk membuktikan kemampuan,upgrade_skill
+sudah bekerja tapi merasa perlu upgrade skill secara serius,upgrade_skill
+mau belajar hal yang lebih advanced dari yang sudah dikuasai,upgrade_skill
